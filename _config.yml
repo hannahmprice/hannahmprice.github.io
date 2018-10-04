@@ -80,7 +80,7 @@ analytics:
 # Site Author
 author:
   name             : "Hannah Price"
-  avatar           : "profile.jpg"
+  avatar           : "/images/profile.jpg"
   bio              : "Theoretical Physics, University of Birmingham"
   location         : "Birmingham, UK"
   employer         :
