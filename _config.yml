@@ -7,13 +7,13 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Your Name / Site Title"
+title                    : "Hannah Price"
 title_separator          : "-"
-name                     : &name "Your Name"
+name                     : &name "Hannah Price"
 description              : &description "personal description"
 url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "academicpages/academicpages.github.io"
+repository               : "hannahmprice/hannahmprice.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -79,13 +79,13 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Sidebar Name"
+  name             : "Hannah Price"
   avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
-  location         : "Location"
+  bio              : "Theoretical Physics, University of Birmingham"
+  location         : "Birmingham, UK"
   employer         :
-  googlescholar    : "http://yourfullgooglescholarurl.com"
-  email            :
+  googlescholar    : "https://scholar.google.co.uk/citations?user=p4dsDnIAAAAJ&hl=en"
+  email            : "H.Price.2@bham.ac.uk"
   uri              :
   bitbucket        :
   codepen          :
@@ -93,19 +93,19 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "academicpages"
+  github           :
   google_plus      :
   keybase          :
   instagram        :
   lastfm           :
   linkedin         :
-  orcid            : "http://orcid.org/yourorcidurl"
+  orcid            : "https://orcid.org/0000-0002-1377-596X"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "replacethistwitterhandle"
+  twitter          : "@hannahmprice"
   vine             :
   weibo            :
   xing             :
@@ -176,10 +176,13 @@ collections:
   publications:
     output: true
     permalink: /:collection/:path/
-  portfolio:
+  preprints:
     output: true
     permalink: /:collection/:path/
-  talks:
+  proceedings:
+    output: true
+    permalink: /:collection/:path/
+  news:
     output: true
     permalink: /:collection/:path/
 
@@ -222,21 +225,30 @@ defaults:
       author_profile: true
       share: true
       comments: true
-  # _portfolio
+  # _preprints
   - scope:
       path: ""
-      type: portfolio
+      type: preprints
     values:
       layout: single
       author_profile: true
       share: true
       comment: true
-  # _talks
+  # _proceedings
   - scope:
       path: ""
-      type: talks
+      type: proceedings
     values:
-      layout: talk
+      layout: single
+      author_profile: true
+      share: true
+      comment: true
+  # _news
+  - scope:
+      path: ""
+      type: news
+    values:
+      layout: news
       author_profile: true
       share: true
 

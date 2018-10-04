@@ -5,12 +5,26 @@ permalink: /publications/
 author_profile: true
 ---
 
-{% if author.googlescholar %}
-  You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
-{% endif %}
+## Preprints
+{% assign counter = 1%} {% for post in site.preprints %} {% assign counter=counter | plus:1 %} {% endfor %}
+{% for post in site.preprints reversed %}
+{% assign label=counter | minus:1 %}
+{% include archive-single.html %}
+{% assign counter=label %}
+{% endfor %}
 
-{% include base_path %}
-
+## Published Articles
+{% assign counter = 1%} {% for post in site.publications %} {% assign counter=counter | plus:1 %} {% endfor %}
 {% for post in site.publications reversed %}
-  {% include archive-single.html %}
+{% assign label=counter | minus:1 %}
+{% include archive-single.html %}
+{% assign counter=label %}
+{% endfor %}
+
+## Conference Proceedings
+{% assign counter = 1%} {% for post in site.proceedings %} {% assign counter=counter | plus:1 %} {% endfor %}
+{% for post in site.proceedings reversed %}
+{% assign label=counter | minus:1 %}
+{% include archive-single.html %}
+{% assign counter=label %}
 {% endfor %}
