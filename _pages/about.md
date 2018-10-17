@@ -16,7 +16,7 @@ My research focuses on the creation and study of topological phases of matter in
 
 ### PhD  Studentship Available
 
-A 4-year PhD studentship on Topological Photonics is currently available in my group.
+A 4-year PhD studentship on Synthetic Topological Matter is currently available in my group.
 For more information, [<u>see here</u>](/group) and please [<u>get in contact</u>](mailto:H.Price.2@bham.ac.uk)!
 
 <div class="image-gallery">
