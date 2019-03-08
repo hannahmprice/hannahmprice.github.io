@@ -7,6 +7,7 @@ author_profile: true
 
 ### Current PhD Students
 * Ben McCanna <br/>
-* Chris Oliver
+* Chris Oliver <br/>
+* Enrico Martello
 
 
