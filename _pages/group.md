@@ -6,9 +6,7 @@ author_profile: true
 ---
 
 ### Current PhD Students
-* Ben McCanna <br/>
-* Chris Oliver <br/>
-* Enrico Martello <br/>
-* David Reid
 
-
+{% for post in site.group reversed %}
+  {% include archive-single-news.html %}
+{% endfor %}
