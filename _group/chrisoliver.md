@@ -4,7 +4,7 @@ collection: group
 permalink: /group/chrisoliver
 date: 2018-10-01
 ---
-<img src="{{ '/images/chrisoliver.jpg'}}" width='250' align='right' />
+<img src="{{ '/images/chrisoliver.jpg'}}" width='250' align='left' />
 PhD student, University of Birmingham  
 
 Email: cpo387 (at) student.bham.ac.uk  
