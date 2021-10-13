@@ -6,7 +6,8 @@ date: 2018-10-01
 ---
 <img src="{{ '/images/chrisoliver.jpg'}}" width='250' align='right' />
 PhD student, University of Birmingham  
-cpo387 (at) student.bham.ac.uk  
+
+Email: cpo387 (at) student.bham.ac.uk  
 
 My current research interest is in synthetic dimensions in ultracold atoms and photonics, and their use in exploring topological models. More precisely, I am collaborating with experimental and theoretical colleagues in cold atoms to implement a synthetic dimesion scheme based on the eigenstates of a harmonic trap. In photonics, I am working synthetic dimensions in arrays of optical waveguides and their use in realising a version of the quantum Hall effect. These projects involve a lot of computational work, mainly in Python and MATLAB.
 
