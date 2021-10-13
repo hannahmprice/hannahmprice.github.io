@@ -5,7 +5,7 @@ permalink: /group/
 author_profile: true
 ---
 
-### Current PhD Students 
+## Current PhD Students 
 
 {% for post in site.group %}
   {% include archive-single-group.html %}
