@@ -7,6 +7,6 @@ author_profile: true
 
 ## Current PhD Students 
 
-{% for post in site.group %}
+{% for post in site.group reversed %}
   {% include archive-single-group.html %}
 {% endfor %}
