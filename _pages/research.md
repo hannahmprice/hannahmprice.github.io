@@ -7,7 +7,7 @@ author_profile: true
 
 Topological states of matter exhibit fascinating phenomena, such as quantised transport and remarkably robust physical properties. While topology was first introduced to understand the quantum behaviour of electrons in solids, topological states can now be engineered in many different platforms including photonics, ultracold atomic gases and classical mechanics. Our research focuses on how we can exploit the features of these different systems to predict new phenomena and to deepen our understanding of topological physics.
 
-To find out more, scroll down for our research highlights or check out our recent review article:
+To find out more, scroll down for our research highlights or check out our recent review articles:
 
 {% for post in site.preprints reversed %} {% if post.project == 'review' %} {% include archive-short.html %} {% endif %} {% endfor %}
 
