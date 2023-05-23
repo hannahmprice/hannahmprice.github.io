@@ -13,5 +13,8 @@ author_profile: true
 
 ## Past Group Members
 
-Ben McCanna (PhD 2022) 
-Enrico Martello (PhD 2023)
+{% for post in site.grouppast  %}
+  {% include archive-single-group.html %}
+{% endfor %}
+
+
