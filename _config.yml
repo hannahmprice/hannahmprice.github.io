@@ -188,6 +188,9 @@ collections:
   group:
     output: true
     permalink: /:collection/:path/
+  grouppast:
+    output: true
+    permalink: /:collection/:path/
 
 
 # Defaults
