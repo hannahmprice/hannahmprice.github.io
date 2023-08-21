@@ -11,7 +11,7 @@ redirect_from:
 
 ### Research Positions
 
-<strong>2020-</strong>: Proleptic Professor in Theoretical Physics and Royal Society University Research Fellow at the University of Birmingham, UK.
+<strong>2023-</strong>: Proleptic Professor in Theoretical Physics and Royal Society University Research Fellow at the University of Birmingham, UK.
 
 <strong>2020-2023</strong>: Proleptic Reader in Theoretical Physics and Royal Society University Research Fellow at the University of Birmingham, UK.
 
