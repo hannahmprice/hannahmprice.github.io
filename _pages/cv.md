@@ -11,9 +11,11 @@ redirect_from:
 
 ### Research Positions
 
-<strong>2020-</strong>: Proleptic Reader in Theoretical Physics at the University of Birmingham, UK.
+<strong>2020-</strong>: Proleptic Professor in Theoretical Physics and Royal Society University Research Fellow at the University of Birmingham, UK.
 
-<strong>2017-</strong>: Royal Society University Research Fellow and Birmingham Fellow at the University of Birmingham, UK.
+<strong>2020-2023</strong>: Proleptic Reader in Theoretical Physics and Royal Society University Research Fellow at the University of Birmingham, UK.
+
+<strong>2017-2020</strong>: Birmingham Fellow and Royal Society University Research Fellow at the University of Birmingham, UK.
 
 <strong>2015-2017: </strong>Marie Skłodowska-Curie Individual Fellowship (<a href="https://synopticgaugefields.wordpress.com/"><u>Synoptic</u></a>), INO-CNR BEC Center, Università di Trento, Italy, working with Dr Iacopo Carusotto.
 
