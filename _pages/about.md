@@ -10,7 +10,7 @@ redirect_from:
 
 
 
-I am a Royal Society University Research Fellow and a Birmingham Fellow in Theoretical Physics at the University of Birmingham, UK.
+I am a Royal Society University Research Fellow and a Proleptic Professor in Theoretical Physics at the University of Birmingham, UK.
 
 My research focuses on the creation and study of topological phases of matter in photonics and ultracold gases. For more information about my research group and research interests, please follow the links above.
 
