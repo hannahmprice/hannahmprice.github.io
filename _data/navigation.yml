@@ -9,11 +9,11 @@ main:
   - title: "Group"
     url: /group/
 
-  - title: "News"
-    url: /news/
-
   - title: "Join Us"
     url: /openings/
+
+  - title: "Brief CV"
+    url: /cv/
 
   - title: "Teaching"
     url: /teaching/
