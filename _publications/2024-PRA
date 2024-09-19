@@ -1,0 +1,14 @@
+---
+title: "Curved vortex surfaces in four-dimensional superfluids: I. Unequal-frequency double rotations"
+collection: publications
+permalink: /publications/2024-PRA
+date: 2024-07-25
+venue: 'Physical Review A'
+paperurl: 'https://journals.aps.org/pra/abstract/10.1103/PhysRevA.110.013325'
+citation: '<i> Phys. Rev. A </i> 110, 013325 (2024)'
+arXiv: 'https://arxiv.org/abs/2309.08015'
+author: 'Ben McCanna and Hannah M. Price'
+project: 'higherD'
+comment: ''
+abstract: 'The study of superfluid quantum vortices has long been an important area of research, with previous work naturally focusing on two-dimensional and three-dimensional systems, where rotation stabilises point vortices and line vortices respectively. Interestingly, this physics generalises for a hypothetical four-dimensional (4D) superfluid to include vortex planes, which can have a much richer phenomenology. In this paper, we study the possibility of skewed and curved vortex planes, which have no direct analogue in lower dimensions. By analytically and numerically studying the 4D Gross-Pitaevskii equation, we show that such vortex surfaces can be stabilised and favoured by double rotation with unequal rotation frequencies. Our work raises open questions for further research into the physics of these vortex surfaces and suggests interesting future extensions to tilted vortex surfaces under equal-frequency double rotation and to more realistic 4D models.'---
+---
