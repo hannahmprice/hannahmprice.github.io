@@ -24,4 +24,4 @@ We have a Postdoctoral Research Fellow position available to start in October 20
 
 ### Fellowships
 
-If you are interested in applying with us for external postdoctoral fellowships, then do get in touch. 
+If you are eligible and interested in applying for external PhD student or postdoctoral fellowships, then do get in touch. 
