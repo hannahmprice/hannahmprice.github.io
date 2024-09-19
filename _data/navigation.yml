@@ -12,8 +12,8 @@ main:
   - title: "News"
     url: /news/
 
-  - title: "Brief CV"
-    url: /cv/
+  - title: "Join Us"
+    url: /openings/
 
   - title: "Teaching"
     url: /teaching/
