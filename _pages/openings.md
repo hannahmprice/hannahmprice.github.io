@@ -10,7 +10,7 @@ author_profile: true
 ### PhD Positions
 
 We have a PhD Studentship available to start in September 2025. This will last for 3.5 years, covering UK/home-student fees and stipend only. This position is affiliated with the EPSRC Programme Grant Quantum Advantage in Quantitative Quantum Simulation (QQQS).
-The full advert is available on <a href="https://www.birmingham.ac.uk/postgraduate/courses/research/physics/physics-astronomy-phd"><u>findaphd.com</u></a>. 
+The full advert is available on <a href="https://www.findaphd.com/phds/project/quantum-simulation-for-many-body-physics-with-ultracold-atoms/?p174956"><u>findaphd.com</u></a>. 
 
 Applications are encouraged before the end of January 2025 at <a href="https://www.birmingham.ac.uk/postgraduate/courses/research/physics/physics-astronomy-phd"><u>Birmingham Physics PhDs Applications</u></a>. 
 
