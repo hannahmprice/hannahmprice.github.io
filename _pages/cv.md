@@ -31,6 +31,8 @@ redirect_from:
 
 ### Recent Awards
 
+<strong>2025</strong>: [<u>Finalist for Blavatnik Awards for Young Scientists in the United Kingdom</u>](https://blavatnikawards.org/honorees/profile/hannah-price/), awarded by the Blavatnik Family Foundation.
+
 <strong>2018</strong>: [<u>James Clerk Maxwell Medal and Prize</u>](http://www.iop.org/about/awards/early-career/maxwell/medallists/page_71729.html), awarded by the Institute of Physics.
 
 <strong>2018</strong>: Aston Webb Award for Outstanding Early Career Academic, awarded by the University of Birmingham.
